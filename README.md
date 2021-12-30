@@ -4,3 +4,7 @@ In my experience, I've found that some things work best when you just leave them
 
 The overall form factor and layout of this board was inspired by the reference board from the HP3458A 8.5 digit multimeter, while the (3D-printed) plastic cap comes from both the 3458A and Keithely 2002 8.5 digit multimeter. If it was good enough for them, it's good enough for me. 
 
+![PCBs](https://github.com/NNNIIndia/LTZ1000-Reference-Board/blob/main/Images/20211230_131405.jpg)
+![LTZ1000A](https://github.com/NNNIIndia/LTZ1000-Reference-Board/blob/main/Images/20211230_140047.jpg)
+![Cap](https://github.com/NNNIIndia/LTZ1000-Reference-Board/blob/main/Images/20211230_140221.jpg)
+
